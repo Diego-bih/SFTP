@@ -1,0 +1,4 @@
+com\mycompany\procesos\Ftp.class
+com\mycompany\procesos\server\ServerApp.class
+com\mycompany\procesos\server\MySftpServer.class
+com\mycompany\procesos\SFTP.class
